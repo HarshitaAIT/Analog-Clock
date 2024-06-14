@@ -17,9 +17,6 @@ index.html: Main HTML file
 styles.css: CSS file for styling
 script.js: JavaScript file for functionality
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to customize and enhance the clock according to your needs!
 
 
